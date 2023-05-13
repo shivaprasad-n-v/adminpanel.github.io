@@ -38978,7 +38978,7 @@ $1(a){return new A.lp(null)},
 $S:291}
 A.IH.prototype={
 K(a){var s=null,r=A.atf(s,B.hT,s)
-return new A.xg(this.c?new A.lp(s):new A.x7(s),"Flutter Demo",r,s)}}
+return new A.xg(this.c?new A.lp(s):new A.x7(s),"Admin Panel",r,s)}}
 A.k7.prototype={
 rs(a){return this.Qe(a)},
 Qe(a){var s=0,r=A.W(t.z),q,p=2,o,n=this,m,l,k,j,i,h,g,f
